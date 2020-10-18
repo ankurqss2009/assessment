@@ -20,7 +20,7 @@ function Listing(props) {
         <TextField label="Address" source="address" />
         <TextField label="City" source="city" />
         <TextField label="State" source="state" />
-        <TextField label="Country" source="Country" />
+
         <EditButton />
         <ShowButton />
       </Datagrid>
